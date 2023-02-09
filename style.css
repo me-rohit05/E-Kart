@@ -188,7 +188,8 @@ body {
   justify-content: space-around;
 }
 #features .f-box {
-  width: 180px;
+  width: 90px;
+  height: 130px;
   text-align: center;
   padding: 25px 15px;
   box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
