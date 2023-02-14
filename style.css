@@ -325,7 +325,7 @@ span {
 }
 #banners .big-banners div {
   width: 580px;
-  min-width: 450px;
+  min-width: 350px;
   margin: 15px;
   height: 300px;
   display: flex;
@@ -334,7 +334,7 @@ span {
   justify-content: center;
   padding: 25px;
   background-size: cover;
-  backdrop-filter: blur(8%);
+  background-position: bottom;
 }
 #banners .big-banners button {
   margin-top: 20px;
