@@ -1,3 +1,5 @@
-# Ecommerce-website
-A dummy shopping website using HTML, CSS and JavaScript.
-https://me-rohit05.github.io/Ecommerce-website/ <--click the link to view it.
+# E-Kart : a dummy Ecommerce-website 
+This project is a dummy e-commerce website for online shopping. The purpose of this project is to demonstrate my ability to create a  web application using modern web development tools and technologies.
+website url : https://me-rohit05.github.io/E-Kart/
+# technology used
+HTML, CSS, JavaScript
